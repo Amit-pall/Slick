@@ -46,26 +46,22 @@
             responsive: {
                 0: {
                     items: 1,
-                    nav: true,
-                    dots: false,
+                   
                 },
 
                 575: {
                     items: 1,
-                    nav: true,
-                    dots: false,
+                
                 },
 
                 768: {
                     items: 3,
-                    nav: true,
-                    dots: false,
+                   
                 },
 
                 1000: {
                     items: 5,
-                    nav: false,
-                    dots: false,
+                  
                 }
             }
         })
@@ -81,26 +77,22 @@
             responsive: {
                 0: {
                     items: 1,
-                    nav: true,
-                    dots: false,
+               
                 },
 
                 575: {
                     items: 1,
-                    nav: true,
-                    dots: false,
+           
                 },
 
                 768: {
                     items: 1,
-                    nav: true,
-                    dots: false,
+               
                 },
 
                 1000: {
                     items: 1,
-                    nav: false,
-                    dots: false,
+                  
                 }
             }
         })
